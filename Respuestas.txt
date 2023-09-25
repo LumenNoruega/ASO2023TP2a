@@ -1,0 +1,8 @@
+¿Qué problemas se puede ver a simple vista?
+
+-Se observa que a veces solo come hamburguesas el comensal 0, a veces solo come hamburguesas el comensal 1 y el orden de las hamburguesas restantes no es correcto, eso cambia cada vez que se ejecuta
+
+¿Qué nombre se le dá a esta falla que ocurre en el código que provoca que cada ejecución presente
+resultados diferentes?
+
+-Rage conditions
